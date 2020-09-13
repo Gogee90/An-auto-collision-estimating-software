@@ -1,4 +1,7 @@
 # An auto collision estimating software
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <p>
   <p align="center">
@@ -11,8 +14,6 @@
     <a href="https://github.com/Gogee90/-/pulls">Request Feature</a>
   </p>
 </p>
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- TABLE OF CONTENTS -->
