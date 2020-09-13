@@ -3,7 +3,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+<p>
   <p align="center">
     A program for vehicle damage estimate
     <br />
