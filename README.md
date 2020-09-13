@@ -1,4 +1,4 @@
-# An auto collision estimating software is a tool to estimate the level of collision repair required for an auto body
+# An auto collision estimating software
 
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -12,6 +12,8 @@
     <br />
     <a href="https://github.com/Gogee90/-/issues">Report Bug</a>
     <a href="https://github.com/Gogee90/-/pulls">Request Feature</a>
+    [![Issues][issues-shield]][issues-url]
+    [![LinkedIn][linkedin-shield]][linkedin-url]
   </p>
 </p>
 
