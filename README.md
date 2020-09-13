@@ -10,7 +10,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A program for vehicle damage estimate
     <br />
     <a href="https://github.com/Gogee90/-"><strong>Explore the docs »</strong></a>
     <br />
