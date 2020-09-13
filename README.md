@@ -1,4 +1,5 @@
-# -
+# An auto collision estimating software is a tool to estimate the level of collision repair required for an auto body
+
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -24,8 +25,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -93,7 +92,7 @@ Project Link: [https://github.com/Gogee90/-](https://github.com/Gogee90/-)
 ## Acknowledgements
 * [Python](https://www.python.org/)
 * [Python-docx-template](https://github.com/elapouya/python-docx-template)
-* [Choose an Open Source License](https://choosealicense.com)
+* [MIT](https://opensource.org/licenses/MIT)
 * [SQlite](https://www.sqlite.org/index.html)
 
 
