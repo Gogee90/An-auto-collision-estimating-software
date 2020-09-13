@@ -1,8 +1,5 @@
 # An auto collision estimating software
 
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p>
   <p align="center">
     A program for vehicle damage estimate
@@ -12,10 +9,10 @@
     <br />
     <a href="https://github.com/Gogee90/-/issues">Report Bug</a>
     <a href="https://github.com/Gogee90/-/pulls">Request Feature</a>
-    [![Issues][issues-shield]][issues-url]
-    [![LinkedIn][linkedin-shield]][linkedin-url]
   </p>
 </p>
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- TABLE OF CONTENTS -->
