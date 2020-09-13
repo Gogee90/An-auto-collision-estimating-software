@@ -7,7 +7,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
     A program for vehicle damage estimate
@@ -15,9 +14,7 @@
     <a href="https://github.com/Gogee90/-"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    
     <a href="https://github.com/Gogee90/-/issues">Report Bug</a>
-    ·
     <a href="https://github.com/Gogee90/-/pulls">Request Feature</a>
   </p>
 </p>
