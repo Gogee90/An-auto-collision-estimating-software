@@ -3,7 +3,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
   <p align="center">
     A program for vehicle damage estimate
     <br />
@@ -14,7 +13,6 @@
     <a href="https://github.com/Gogee90/-/pulls">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -62,31 +60,18 @@ At least Python:3.5 Python-docx-template
 1. Install Python https://www.python.org/
 2. Clone the repo
 git clone https://github.com/Gogee90/-
-```
 3. Install packages
-```pip install requirements.txt
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+pip install requirements.txt
+4.Run startwindow.py
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+To use the program you need to have python installed.
+Run sratwindow.py.
+Use cx_freeze to compile so you could use it as a standalone program.
 
 
 <!-- CONTRIBUTING -->
