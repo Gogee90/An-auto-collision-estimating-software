@@ -157,4 +157,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-url]: https://github.com/Gogee90/-/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/igor-nikolaev-orenburg/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://skr.sh/i/130920/pgx4piGH.jpg?download=1
