@@ -38,6 +38,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+https://skr.sh/i/130920/rgbsZH7P.jpg?download=1
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -158,3 +159,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/igor-nikolaev-orenburg/
 [product-screenshot]: https://skr.sh/i/130920/pgx4piGH.jpg?download=1
+[product-screenshot1]: https://skr.sh/i/130920/rgbsZH7P.jpg?download=1
