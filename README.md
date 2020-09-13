@@ -61,7 +61,7 @@ At least Python:3.5 Python-docx-template
 git clone https://github.com/Gogee90/-
 3. Install packages
 pip install requirements.txt
-4.Run startwindow.py
+4. Run startwindow.py
 
 
 
