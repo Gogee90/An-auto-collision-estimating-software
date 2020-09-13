@@ -91,9 +91,7 @@ Project Link: [https://github.com/Gogee90/-](https://github.com/Gogee90/-)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Python](https://www.python.org/)
-* [Django](https://www.djangoproject.com/)
-* [Python Social Auth](https://github.com/python-social-auth/social-core)
-* [CKEditor](https://ckeditor.com/)
+* [Python-docx-template](https://github.com/elapouya/python-docx-template)
 * [MIT](https://opensource.org/licenses/MIT)
 * [SQlite](https://www.sqlite.org/index.html)
 
