@@ -1,7 +1,7 @@
 astroid==2.0.4
 Babel==2.5.3
 beautifulsoup4==4.9.0
-bleach==3.1.4
+bleach==3.3.0
 Cartridge==0.13.0
 certifi==2018.8.24
 chardet==3.0.4
